@@ -1,6 +1,7 @@
 name: SGSI_Build
 
 on:
+ workflow_dispatch:
   watch:
     types: [started]
 
